@@ -8,24 +8,17 @@ Me chamo Jennifer Fartes, tenho 22 anos e sou natural de Minas Gerais.Atualmente
   <img 
     alt="LinkedIn Jennifer Fartes" 
     title="Conecte-se comigo no LinkedIn" 
-    src="https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=for-the-badge&logo=linkedin&logoColor=black"
+    src="https://img.shields.io/badge/LinkedIn-Conecte--se-40E0D0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=20B2AA"
   />
 </a>
-    <a href="https://github.com/Jennifer-Fartes">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+ <a href="https://github.com/Jennifer-Fartes" target="_blank">
+  <img 
+    alt="Seguidores" 
+    title="Me siga no GitHub" 
+    src="https://custom-icon-badges.demolab.com/github/followers/Jennifer-Fartes?color=FF6F61&labelColor=CD5C5C&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+  />
+</a>
+
 
 ---
 
@@ -55,78 +48,7 @@ Me chamo Jennifer Fartes, tenho 22 anos e sou natural de Minas Gerais.Atualmente
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
@@ -155,14 +77,16 @@ Me chamo Jennifer Fartes, tenho 22 anos e sou natural de Minas Gerais.Atualmente
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Jennifer-Fartes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennifer-Fartes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
