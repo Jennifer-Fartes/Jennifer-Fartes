@@ -11,16 +11,7 @@ Me chamo Jennifer Fartes, tenho 22 anos e sou natural de Minas Gerais.Atualmente
     src="https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
-
-
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Jennifer-Fartes">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
