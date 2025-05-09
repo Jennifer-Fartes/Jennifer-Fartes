@@ -50,7 +50,7 @@ Me chamo Jennifer Fartes, tenho 22 anos e sou natural de Minas Gerais.Atualmente
 />
 
 <img 
-    align="left" 
+    align="left"
     alt="Git" 
     title="Git"
     width="30px" 
