@@ -5,13 +5,14 @@
 Me chamo Jennifer Fartes, tenho 22 anos e sou natural de Minas Gerais.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e estou em constante aprendizado.
 
 <p align="left">
-    <a href="https://https://www.linkedin.com/in/jennifer-fartes-ti/">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
+    <a href="https://www.linkedin.com/in/jennifer-fartes-ti/" target="_blank">
+  <img 
+    alt="LinkedIn Jennifer Fartes" 
+    title="Conecte-se comigo no LinkedIn" 
+    src="https://img.shields.io/badge/LinkedIn-Conecte-se-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
