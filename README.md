@@ -8,7 +8,7 @@ Me chamo Jennifer Fartes, tenho 22 anos e sou natural de Minas Gerais.Atualmente
   <img 
     alt="LinkedIn Jennifer Fartes" 
     title="Conecte-se comigo no LinkedIn" 
-    src="https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=for-the-badge&logo=linkedin&logoColor=black"
   />
 </a>
     <a href="https://github.com/Jennifer-Fartes">
