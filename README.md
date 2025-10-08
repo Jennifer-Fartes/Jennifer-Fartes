@@ -2,7 +2,7 @@
 
 **`Estudante de ADS`**
 
-Me chamo Jennifer Fartes, tenho 22 anos e sou natural de Minas Gerais.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e estou em constante aprendizado.
+Me chamo Jennifer Fartes, tenho 22 anos e sou natural de Minas Gerais.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. 
 
 <a href="https://www.linkedin.com/in/jennifer-fartes-ti/" target="_blank">
   <img 
